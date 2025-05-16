@@ -1,0 +1,186 @@
+2025-05-16 14:42:03,560 - INFO - Starting Pastebin Crawler with rate-limiting and multi-threading...
+2025-05-16 14:42:06,744 - INFO - Fetched paste ID fLZtdwtA
+2025-05-16 14:42:06,744 - INFO - No match found in paste fLZtdwtA
+2025-05-16 14:42:07,125 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:42:07,126 - INFO - No match found in paste archive/php
+2025-05-16 14:42:07,436 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:42:07,438 - INFO - No match found in paste archive/php
+2025-05-16 14:42:08,034 - INFO - Fetched paste ID n8Jhrg4i
+2025-05-16 14:42:08,034 - INFO - No match found in paste n8Jhrg4i
+2025-05-16 14:42:08,872 - INFO - Fetched paste ID Jny6T9Hh
+2025-05-16 14:42:08,872 - INFO - No match found in paste Jny6T9Hh
+2025-05-16 14:42:10,028 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:42:10,028 - INFO - No match found in paste archive/javascript
+2025-05-16 14:42:10,054 - INFO - Fetched paste ID UcVtsshQ
+2025-05-16 14:42:10,054 - INFO - Match found in paste UcVtsshQ with keywords: ['t.me']
+2025-05-16 14:42:10,069 - WARNING - Error fetching paste archive/cpp: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/cpp
+2025-05-16 14:42:10,069 - INFO - No match found in paste archive/cpp
+2025-05-16 14:42:11,249 - INFO - Fetched paste ID TFECgYag
+2025-05-16 14:42:11,250 - INFO - No match found in paste TFECgYag
+2025-05-16 14:42:12,845 - WARNING - Error fetching paste archive/bash: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/bash
+2025-05-16 14:42:12,845 - INFO - No match found in paste archive/bash
+2025-05-16 14:42:12,861 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:42:12,861 - INFO - No match found in paste archive/javascript
+2025-05-16 14:42:13,480 - INFO - Fetched paste ID EhSDfr92
+2025-05-16 14:42:13,482 - INFO - Match found in paste EhSDfr92 with keywords: ['t.me']
+2025-05-16 14:42:13,899 - INFO - Fetched paste ID PVw6LWpd
+2025-05-16 14:42:13,899 - INFO - Match found in paste PVw6LWpd with keywords: ['t.me']
+2025-05-16 14:42:14,088 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:42:14,088 - INFO - No match found in paste archive/javascript
+2025-05-16 14:42:15,308 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:42:15,308 - INFO - No match found in paste archive/php
+2025-05-16 14:42:15,970 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:42:15,970 - INFO - No match found in paste archive/javascript
+2025-05-16 14:42:16,236 - INFO - Fetched paste ID k6PYQCji
+2025-05-16 14:42:16,236 - INFO - Match found in paste k6PYQCji with keywords: ['t.me']
+2025-05-16 14:42:16,352 - INFO - Fetched paste ID XzfFkhkZ
+2025-05-16 14:42:16,360 - INFO - Match found in paste XzfFkhkZ with keywords: ['t.me']
+2025-05-16 14:42:16,738 - INFO - Fetched paste ID 3X0MZWTB
+2025-05-16 14:42:16,738 - INFO - No match found in paste 3X0MZWTB
+2025-05-16 14:42:18,553 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:42:18,558 - INFO - No match found in paste archive/javascript
+2025-05-16 14:42:18,896 - INFO - Fetched paste ID KYHVQ4C3
+2025-05-16 14:42:18,896 - INFO - Match found in paste KYHVQ4C3 with keywords: ['t.me']
+2025-05-16 14:42:19,813 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:42:19,813 - INFO - No match found in paste archive/javascript
+2025-05-16 14:42:20,164 - INFO - Fetched paste ID V4yKSeXe
+2025-05-16 14:42:20,164 - INFO - Match found in paste V4yKSeXe with keywords: ['t.me']
+2025-05-16 14:42:21,192 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:42:21,192 - INFO - No match found in paste archive/php
+2025-05-16 14:42:21,393 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:42:21,393 - INFO - No match found in paste archive/javascript
+2025-05-16 14:42:22,354 - WARNING - Error fetching paste archive/bash: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/bash
+2025-05-16 14:42:22,354 - INFO - No match found in paste archive/bash
+2025-05-16 14:42:22,779 - INFO - Fetched paste ID fHftRWZk
+2025-05-16 14:42:22,779 - INFO - No match found in paste fHftRWZk
+2025-05-16 14:42:23,822 - INFO - Fetched paste ID z67DKxPf
+2025-05-16 14:42:23,822 - INFO - No match found in paste z67DKxPf
+2025-05-16 14:42:24,324 - WARNING - Error fetching paste archive/bash: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/bash
+2025-05-16 14:42:24,324 - INFO - No match found in paste archive/bash
+2025-05-16 14:42:25,143 - INFO - Fetched paste ID 5ETHspZM
+2025-05-16 14:42:25,143 - INFO - No match found in paste 5ETHspZM
+2025-05-16 14:42:25,143 - INFO - Done checking all pastes.
+2025-05-16 14:45:32,492 - INFO - Starting Pastebin Crawler with rate-limiting and multi-threading...
+2025-05-16 14:45:35,814 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:45:35,814 - INFO - No match found in paste archive/php
+2025-05-16 14:45:36,326 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:45:36,326 - INFO - No match found in paste archive/php
+2025-05-16 14:45:37,026 - INFO - Fetched paste ID fLZtdwtA
+2025-05-16 14:45:37,042 - INFO - Fetched paste ID n8Jhrg4i
+2025-05-16 14:45:37,042 - INFO - No match found in paste fLZtdwtA
+2025-05-16 14:45:37,042 - INFO - No match found in paste n8Jhrg4i
+2025-05-16 14:45:37,042 - INFO - Fetched paste ID Jny6T9Hh
+2025-05-16 14:45:37,042 - INFO - No match found in paste Jny6T9Hh
+2025-05-16 14:45:38,334 - INFO - Fetched paste ID UcVtsshQ
+2025-05-16 14:45:38,334 - INFO - Match found in paste UcVtsshQ with keywords: ['t.me']
+2025-05-16 14:45:38,525 - WARNING - Error fetching paste archive/cpp: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/cpp
+2025-05-16 14:45:38,540 - INFO - No match found in paste archive/cpp
+2025-05-16 14:45:39,216 - INFO - Fetched paste ID TFECgYag
+2025-05-16 14:45:39,216 - INFO - No match found in paste TFECgYag
+2025-05-16 14:45:39,407 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:45:39,407 - INFO - No match found in paste archive/javascript
+2025-05-16 14:45:39,911 - WARNING - Error fetching paste archive/bash: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/bash
+2025-05-16 14:45:39,911 - INFO - No match found in paste archive/bash
+2025-05-16 14:45:40,725 - INFO - Fetched paste ID PVw6LWpd
+2025-05-16 14:45:40,725 - INFO - Match found in paste PVw6LWpd with keywords: ['t.me']
+2025-05-16 14:45:42,773 - INFO - Fetched paste ID EhSDfr92
+2025-05-16 14:45:42,773 - INFO - Match found in paste EhSDfr92 with keywords: ['t.me']
+2025-05-16 14:45:43,090 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:45:43,090 - INFO - No match found in paste archive/javascript
+2025-05-16 14:45:43,455 - INFO - Fetched paste ID 3X0MZWTB
+2025-05-16 14:45:43,456 - INFO - No match found in paste 3X0MZWTB
+2025-05-16 14:45:43,595 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:45:43,596 - INFO - No match found in paste archive/javascript
+2025-05-16 14:45:44,312 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:45:44,315 - INFO - No match found in paste archive/php
+2025-05-16 14:45:45,849 - INFO - Fetched paste ID k6PYQCji
+2025-05-16 14:45:45,850 - INFO - Match found in paste k6PYQCji with keywords: ['t.me']
+2025-05-16 14:45:46,358 - INFO - Fetched paste ID KYHVQ4C3
+2025-05-16 14:45:46,358 - INFO - Match found in paste KYHVQ4C3 with keywords: ['t.me']
+2025-05-16 14:45:47,509 - INFO - Fetched paste ID XzfFkhkZ
+2025-05-16 14:45:47,509 - INFO - Match found in paste XzfFkhkZ with keywords: ['t.me']
+2025-05-16 14:45:47,806 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:45:47,806 - INFO - No match found in paste archive/javascript
+2025-05-16 14:45:47,965 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:45:47,965 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:45:47,965 - INFO - No match found in paste archive/javascript
+2025-05-16 14:45:47,965 - INFO - No match found in paste archive/javascript
+2025-05-16 14:45:49,024 - INFO - Fetched paste ID z67DKxPf
+2025-05-16 14:45:49,024 - INFO - No match found in paste z67DKxPf
+2025-05-16 14:45:49,643 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:45:49,643 - INFO - No match found in paste archive/php
+2025-05-16 14:45:50,317 - WARNING - Error fetching paste archive/bash: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/bash
+2025-05-16 14:45:50,317 - INFO - No match found in paste archive/bash
+2025-05-16 14:45:51,380 - INFO - Fetched paste ID 5ETHspZM
+2025-05-16 14:45:51,380 - INFO - No match found in paste 5ETHspZM
+2025-05-16 14:45:51,889 - INFO - Fetched paste ID fHftRWZk
+2025-05-16 14:45:51,889 - INFO - No match found in paste fHftRWZk
+2025-05-16 14:45:52,609 - WARNING - Error fetching paste archive/cpp: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/cpp
+2025-05-16 14:45:52,609 - INFO - No match found in paste archive/cpp
+2025-05-16 14:45:53,118 - WARNING - Error fetching paste archive/bash: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/bash
+2025-05-16 14:45:53,118 - INFO - No match found in paste archive/bash
+2025-05-16 14:45:53,522 - INFO - Fetched paste ID 8UXgr8a3
+2025-05-16 14:45:53,522 - INFO - No match found in paste 8UXgr8a3
+2025-05-16 14:45:53,533 - INFO - Done checking all pastes.
+2025-05-16 14:52:12,562 - INFO - Starting Pastebin Crawler with rate-limiting and multi-threading...
+2025-05-16 14:52:15,897 - INFO - Fetched paste ID Jny6T9Hh
+2025-05-16 14:52:15,897 - INFO - No match found in paste Jny6T9Hh
+2025-05-16 14:52:16,086 - INFO - Fetched paste ID fLZtdwtA
+2025-05-16 14:52:16,086 - INFO - No match found in paste fLZtdwtA
+2025-05-16 14:52:16,299 - INFO - Fetched paste ID n8Jhrg4i
+2025-05-16 14:52:16,301 - INFO - No match found in paste n8Jhrg4i
+2025-05-16 14:52:16,799 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:52:16,814 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:52:16,814 - INFO - No match found in paste archive/php
+2025-05-16 14:52:16,814 - INFO - No match found in paste archive/php
+2025-05-16 14:52:18,336 - INFO - Fetched paste ID UcVtsshQ
+2025-05-16 14:52:18,350 - INFO - Match found in paste UcVtsshQ with keywords: ['t.me']
+2025-05-16 14:52:18,844 - WARNING - Error fetching paste archive/cpp: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/cpp
+2025-05-16 14:52:18,844 - INFO - No match found in paste archive/cpp
+2025-05-16 14:52:19,882 - INFO - Fetched paste ID TFECgYag
+2025-05-16 14:52:19,882 - INFO - No match found in paste TFECgYag
+2025-05-16 14:52:20,087 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:52:20,087 - INFO - No match found in paste archive/javascript
+2025-05-16 14:52:20,801 - INFO - Fetched paste ID PVw6LWpd
+2025-05-16 14:52:20,801 - INFO - Match found in paste PVw6LWpd with keywords: ['t.me']
+2025-05-16 14:52:21,021 - WARNING - Error fetching paste archive/bash: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/bash
+2025-05-16 14:52:21,021 - INFO - No match found in paste archive/bash
+2025-05-16 14:52:21,317 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:52:21,318 - INFO - No match found in paste archive/javascript
+2025-05-16 14:52:21,727 - INFO - Fetched paste ID EhSDfr92
+2025-05-16 14:52:21,727 - INFO - Match found in paste EhSDfr92 with keywords: ['t.me']
+2025-05-16 14:52:23,562 - INFO - Fetched paste ID k6PYQCji
+2025-05-16 14:52:23,578 - INFO - Match found in paste k6PYQCji with keywords: ['t.me']
+2025-05-16 14:52:23,671 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:52:23,671 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:52:23,671 - INFO - No match found in paste archive/javascript
+2025-05-16 14:52:23,671 - INFO - No match found in paste archive/php
+2025-05-16 14:52:24,047 - INFO - Fetched paste ID 3X0MZWTB
+2025-05-16 14:52:24,047 - INFO - No match found in paste 3X0MZWTB
+2025-05-16 14:52:25,502 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:52:25,502 - INFO - No match found in paste archive/javascript
+2025-05-16 14:52:26,230 - INFO - Fetched paste ID XzfFkhkZ
+2025-05-16 14:52:26,230 - WARNING - Error fetching paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-16 14:52:26,233 - INFO - No match found in paste archive/javascript
+2025-05-16 14:52:26,233 - INFO - Match found in paste XzfFkhkZ with keywords: ['t.me']
+2025-05-16 14:52:26,533 - INFO - Fetched paste ID z67DKxPf
+2025-05-16 14:52:26,533 - INFO - No match found in paste z67DKxPf
+2025-05-16 14:52:28,192 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:52:28,192 - INFO - No match found in paste archive/php
+2025-05-16 14:52:28,693 - INFO - Fetched paste ID fHftRWZk
+2025-05-16 14:52:28,693 - INFO - No match found in paste fHftRWZk
+2025-05-16 14:52:28,994 - WARNING - Error fetching paste archive/bash: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/bash
+2025-05-16 14:52:28,994 - INFO - No match found in paste archive/bash
+2025-05-16 14:52:29,815 - WARNING - Error fetching paste archive/bash: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/bash
+2025-05-16 14:52:29,815 - INFO - No match found in paste archive/bash
+2025-05-16 14:52:29,918 - INFO - Fetched paste ID 5ETHspZM
+2025-05-16 14:52:29,921 - INFO - No match found in paste 5ETHspZM
+2025-05-16 14:52:30,201 - INFO - Fetched paste ID 8UXgr8a3
+2025-05-16 14:52:30,201 - INFO - No match found in paste 8UXgr8a3
+2025-05-16 14:52:31,149 - WARNING - Error fetching paste archive/cpp: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/cpp
+2025-05-16 14:52:31,149 - INFO - No match found in paste archive/cpp
+2025-05-16 14:52:31,761 - INFO - Fetched paste ID wqEatCa3
+2025-05-16 14:52:31,761 - INFO - No match found in paste wqEatCa3
+2025-05-16 14:52:33,396 - WARNING - Error fetching paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-16 14:52:33,396 - INFO - No match found in paste archive/php
+2025-05-16 14:52:33,396 - INFO - Done checking all pastes.

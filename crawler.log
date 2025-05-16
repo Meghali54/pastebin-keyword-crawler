@@ -1,0 +1,187 @@
+2025-05-16 13:52:13,199 - INFO - Found 50 paste IDs.
+2025-05-16 14:22:50,279 [INFO] Starting Pastebin keyword crawler...
+2025-05-16 14:22:51,386 [INFO] Found 30 paste IDs.
+2025-05-16 14:22:51,386 [INFO] Checking paste ID: f9tYYHjr
+2025-05-16 14:22:51,861 [WARNING] Error fetching paste f9tYYHjr: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/f9tYYHjr (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-05-16 14:22:51,861 [INFO] Skipped f9tYYHjr (no content)
+2025-05-16 14:22:51,861 [INFO] Checking paste ID: ZzAAPgSd
+2025-05-16 14:22:52,250 [WARNING] Error fetching paste ZzAAPgSd: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/ZzAAPgSd (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-05-16 14:22:52,250 [INFO] Skipped ZzAAPgSd (no content)
+2025-05-16 14:22:52,250 [INFO] Checking paste ID: j25H2jdC
+2025-05-16 14:23:00,043 [WARNING] Error fetching paste j25H2jdC: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/j25H2jdC (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
+2025-05-16 14:23:00,043 [INFO] Skipped j25H2jdC (no content)
+2025-05-16 14:23:00,046 [INFO] Checking paste ID: TeqtzCRv
+2025-05-16 14:23:03,013 [WARNING] Error fetching paste TeqtzCRv: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/TeqtzCRv (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:03,014 [INFO] Skipped TeqtzCRv (no content)
+2025-05-16 14:23:03,014 [INFO] Checking paste ID: sCh9aRgn
+2025-05-16 14:23:05,056 [WARNING] Error fetching paste sCh9aRgn: SOCKSHTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/sCh9aRgn (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:23:05,056 [INFO] Skipped sCh9aRgn (no content)
+2025-05-16 14:23:05,056 [INFO] Checking paste ID: V4yKSeXe
+2025-05-16 14:23:05,980 [WARNING] Error fetching paste V4yKSeXe: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/V4yKSeXe (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
+2025-05-16 14:23:05,980 [INFO] Skipped V4yKSeXe (no content)
+2025-05-16 14:23:05,980 [INFO] Checking paste ID: Zw0em82f
+2025-05-16 14:23:06,945 [WARNING] Error fetching paste Zw0em82f: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/Zw0em82f (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
+2025-05-16 14:23:06,945 [INFO] Skipped Zw0em82f (no content)
+2025-05-16 14:23:06,945 [INFO] Checking paste ID: ry4YndGM
+2025-05-16 14:23:07,416 [WARNING] Error fetching paste ry4YndGM: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/ry4YndGM (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-05-16 14:23:07,416 [INFO] Skipped ry4YndGM (no content)
+2025-05-16 14:23:07,416 [INFO] Checking paste ID: YXug5B23
+2025-05-16 14:23:08,644 [WARNING] Error fetching paste YXug5B23: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/YXug5B23 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
+2025-05-16 14:23:08,644 [INFO] Skipped YXug5B23 (no content)
+2025-05-16 14:23:08,644 [INFO] Checking paste ID: k6PYQCji
+2025-05-16 14:23:10,480 [WARNING] Error fetching paste k6PYQCji: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/k6PYQCji (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:10,480 [INFO] Skipped k6PYQCji (no content)
+2025-05-16 14:23:10,480 [INFO] Checking paste ID: PVw6LWpd
+2025-05-16 14:23:11,829 [WARNING] Error fetching paste PVw6LWpd: SOCKSHTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/PVw6LWpd (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:23:11,829 [INFO] Skipped PVw6LWpd (no content)
+2025-05-16 14:23:11,829 [INFO] Checking paste ID: BrhkTDns
+2025-05-16 14:23:12,429 [WARNING] Error fetching paste BrhkTDns: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-16 14:23:12,431 [INFO] Skipped BrhkTDns (no content)
+2025-05-16 14:23:12,432 [INFO] Checking paste ID: ksWE7jhM
+2025-05-16 14:23:14,995 [WARNING] Error fetching paste ksWE7jhM: SOCKSHTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/ksWE7jhM (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:23:14,995 [INFO] Skipped ksWE7jhM (no content)
+2025-05-16 14:23:14,995 [INFO] Checking paste ID: CZtTfgby
+2025-05-16 14:23:16,633 [WARNING] Error fetching paste CZtTfgby: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/CZtTfgby (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
+2025-05-16 14:23:16,633 [INFO] Skipped CZtTfgby (no content)
+2025-05-16 14:23:16,633 [INFO] Checking paste ID: EhSDfr92
+2025-05-16 14:23:17,347 [WARNING] Error fetching paste EhSDfr92: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/EhSDfr92 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:17,347 [INFO] Skipped EhSDfr92 (no content)
+2025-05-16 14:23:17,347 [INFO] Checking paste ID: TFECgYag
+2025-05-16 14:23:19,184 [WARNING] Error fetching paste TFECgYag: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/TFECgYag (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:19,184 [INFO] Skipped TFECgYag (no content)
+2025-05-16 14:23:19,184 [INFO] Checking paste ID: JQfpQmpV
+2025-05-16 14:23:24,313 [WARNING] Error fetching paste JQfpQmpV: SOCKSHTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/JQfpQmpV (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:23:24,313 [INFO] Skipped JQfpQmpV (no content)
+2025-05-16 14:23:24,313 [INFO] Checking paste ID: BEKjT5uE
+2025-05-16 14:23:25,124 [WARNING] Error fetching paste BEKjT5uE: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/BEKjT5uE (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:25,124 [INFO] Skipped BEKjT5uE (no content)
+2025-05-16 14:23:25,124 [INFO] Checking paste ID: RgJ8DJmd
+2025-05-16 14:23:25,637 [WARNING] Error fetching paste RgJ8DJmd: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-16 14:23:25,637 [INFO] Skipped RgJ8DJmd (no content)
+2025-05-16 14:23:25,637 [INFO] Checking paste ID: rUYWNycz
+2025-05-16 14:23:30,650 [WARNING] Error fetching paste rUYWNycz: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/rUYWNycz (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
+2025-05-16 14:23:30,650 [INFO] Skipped rUYWNycz (no content)
+2025-05-16 14:23:30,650 [INFO] Checking paste ID: 74pDqtMZ
+2025-05-16 14:23:31,365 [WARNING] Error fetching paste 74pDqtMZ: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/74pDqtMZ (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:31,365 [INFO] Skipped 74pDqtMZ (no content)
+2025-05-16 14:23:31,381 [INFO] Checking paste ID: gvZgHQb7
+2025-05-16 14:23:34,245 [WARNING] Error fetching paste gvZgHQb7: SOCKSHTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/gvZgHQb7 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:23:34,245 [INFO] Skipped gvZgHQb7 (no content)
+2025-05-16 14:23:34,245 [INFO] Checking paste ID: PAF7k2aP
+2025-05-16 14:23:34,761 [WARNING] Error fetching paste PAF7k2aP: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-16 14:23:34,761 [INFO] Skipped PAF7k2aP (no content)
+2025-05-16 14:23:34,761 [INFO] Checking paste ID: fr4cdWdn
+2025-05-16 14:23:39,776 [WARNING] Error fetching paste fr4cdWdn: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/fr4cdWdn (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:39,776 [INFO] Skipped fr4cdWdn (no content)
+2025-05-16 14:23:39,776 [INFO] Checking paste ID: 8UXgr8a3
+2025-05-16 14:23:40,590 [WARNING] Error fetching paste 8UXgr8a3: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/8UXgr8a3 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:40,590 [INFO] Skipped 8UXgr8a3 (no content)
+2025-05-16 14:23:40,590 [INFO] Checking paste ID: xeBUiyb4
+2025-05-16 14:23:50,605 [WARNING] Error fetching paste xeBUiyb4: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/xeBUiyb4 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F8C651C8C0>, 'Connection to 46.47.197.210 timed out. (connect timeout=10)')))
+2025-05-16 14:23:50,605 [INFO] Skipped xeBUiyb4 (no content)
+2025-05-16 14:23:50,605 [INFO] Checking paste ID: wqEatCa3
+2025-05-16 14:23:51,551 [WARNING] Error fetching paste wqEatCa3: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/wqEatCa3 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:51,551 [INFO] Skipped wqEatCa3 (no content)
+2025-05-16 14:23:51,552 [INFO] Checking paste ID: qJrmTaFL
+2025-05-16 14:23:52,776 [WARNING] Error fetching paste qJrmTaFL: SOCKSHTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/qJrmTaFL (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:23:52,781 [INFO] Skipped qJrmTaFL (no content)
+2025-05-16 14:23:52,781 [INFO] Checking paste ID: 3X0MZWTB
+2025-05-16 14:23:53,699 [WARNING] Error fetching paste 3X0MZWTB: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/3X0MZWTB (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))
+2025-05-16 14:23:53,699 [INFO] Skipped 3X0MZWTB (no content)
+2025-05-16 14:23:53,699 [INFO] Checking paste ID: jdi6hxhF
+2025-05-16 14:23:56,155 [WARNING] Error fetching paste jdi6hxhF: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/jdi6hxhF (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
+2025-05-16 14:23:56,155 [INFO] Skipped jdi6hxhF (no content)
+2025-05-16 14:23:56,155 [INFO] Crawling complete.
+2025-05-16 14:34:11,738 [INFO] Starting Pastebin keyword crawler...
+2025-05-16 14:34:13,051 [INFO] Found 30 paste IDs.
+2025-05-16 14:34:13,051 [INFO] Checking paste ID: 8GXwVQCU
+2025-05-16 14:34:13,931 [INFO] Fetched https://pastebin.com/raw/8GXwVQCU | Status: 403
+2025-05-16 14:34:13,931 [INFO] Skipped 8GXwVQCU (no content)
+2025-05-16 14:34:13,931 [INFO] Checking paste ID: nsvsyabN
+2025-05-16 14:34:15,174 [WARNING] Error fetching paste nsvsyabN: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/nsvsyabN (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:15,174 [INFO] Skipped nsvsyabN (no content)
+2025-05-16 14:34:15,174 [INFO] Checking paste ID: RgJ8DJmd
+2025-05-16 14:34:19,055 [INFO] Fetched https://pastebin.com/raw/RgJ8DJmd | Status: 403
+2025-05-16 14:34:19,055 [INFO] Skipped RgJ8DJmd (no content)
+2025-05-16 14:34:19,055 [INFO] Checking paste ID: 74pDqtMZ
+2025-05-16 14:34:20,481 [WARNING] Error fetching paste 74pDqtMZ: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/74pDqtMZ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:20,481 [INFO] Skipped 74pDqtMZ (no content)
+2025-05-16 14:34:20,481 [INFO] Checking paste ID: vztexL8R
+2025-05-16 14:34:21,408 [INFO] Fetched https://pastebin.com/raw/vztexL8R | Status: 403
+2025-05-16 14:34:21,408 [INFO] Skipped vztexL8R (no content)
+2025-05-16 14:34:21,408 [INFO] Checking paste ID: qJrmTaFL
+2025-05-16 14:34:26,629 [INFO] Fetched https://pastebin.com/raw/qJrmTaFL | Status: 403
+2025-05-16 14:34:26,629 [INFO] Skipped qJrmTaFL (no content)
+2025-05-16 14:34:26,629 [INFO] Checking paste ID: 4GTFMivC
+2025-05-16 14:34:27,544 [INFO] Fetched https://pastebin.com/raw/4GTFMivC | Status: 403
+2025-05-16 14:34:27,544 [INFO] Skipped 4GTFMivC (no content)
+2025-05-16 14:34:27,544 [INFO] Checking paste ID: n8Jhrg4i
+2025-05-16 14:34:28,467 [INFO] Fetched https://pastebin.com/raw/n8Jhrg4i | Status: 403
+2025-05-16 14:34:28,467 [INFO] Skipped n8Jhrg4i (no content)
+2025-05-16 14:34:28,467 [INFO] Checking paste ID: PAF7k2aP
+2025-05-16 14:34:29,383 [WARNING] Error fetching paste PAF7k2aP: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/PAF7k2aP (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:29,383 [INFO] Skipped PAF7k2aP (no content)
+2025-05-16 14:34:29,398 [INFO] Checking paste ID: k6PYQCji
+2025-05-16 14:34:30,825 [WARNING] Error fetching paste k6PYQCji: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/k6PYQCji (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:30,830 [INFO] Skipped k6PYQCji (no content)
+2025-05-16 14:34:30,830 [INFO] Checking paste ID: fr4cdWdn
+2025-05-16 14:34:32,786 [WARNING] Error fetching paste fr4cdWdn: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/fr4cdWdn (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:32,786 [INFO] Skipped fr4cdWdn (no content)
+2025-05-16 14:34:32,786 [INFO] Checking paste ID: fHftRWZk
+2025-05-16 14:34:33,387 [WARNING] Error fetching paste fHftRWZk: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/fHftRWZk (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:33,387 [INFO] Skipped fHftRWZk (no content)
+2025-05-16 14:34:33,387 [INFO] Checking paste ID: BEKjT5uE
+2025-05-16 14:34:34,170 [INFO] Fetched https://pastebin.com/raw/BEKjT5uE | Status: 403
+2025-05-16 14:34:34,170 [INFO] Skipped BEKjT5uE (no content)
+2025-05-16 14:34:34,170 [INFO] Checking paste ID: JpckVMBV
+2025-05-16 14:34:35,535 [WARNING] Error fetching paste JpckVMBV: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/JpckVMBV (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:35,535 [INFO] Skipped JpckVMBV (no content)
+2025-05-16 14:34:35,535 [INFO] Checking paste ID: aLmTANcW
+2025-05-16 14:34:36,861 [WARNING] Error fetching paste aLmTANcW: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/aLmTANcW (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:36,861 [INFO] Skipped aLmTANcW (no content)
+2025-05-16 14:34:36,861 [INFO] Checking paste ID: p4HEfhzy
+2025-05-16 14:34:38,101 [WARNING] Error fetching paste p4HEfhzy: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/p4HEfhzy (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:38,101 [INFO] Skipped p4HEfhzy (no content)
+2025-05-16 14:34:38,101 [INFO] Checking paste ID: qJLReKSe
+2025-05-16 14:34:39,225 [INFO] Fetched https://pastebin.com/raw/qJLReKSe | Status: 403
+2025-05-16 14:34:39,225 [INFO] Skipped qJLReKSe (no content)
+2025-05-16 14:34:39,225 [INFO] Checking paste ID: ksWE7jhM
+2025-05-16 14:34:40,449 [WARNING] Error fetching paste ksWE7jhM: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/ksWE7jhM (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:40,449 [INFO] Skipped ksWE7jhM (no content)
+2025-05-16 14:34:40,449 [INFO] Checking paste ID: etihbnUm
+2025-05-16 14:34:41,991 [WARNING] Error fetching paste etihbnUm: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/etihbnUm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:41,991 [INFO] Skipped etihbnUm (no content)
+2025-05-16 14:34:41,991 [INFO] Checking paste ID: Jny6T9Hh
+2025-05-16 14:34:43,410 [WARNING] Error fetching paste Jny6T9Hh: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/Jny6T9Hh (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:43,426 [INFO] Skipped Jny6T9Hh (no content)
+2025-05-16 14:34:43,426 [INFO] Checking paste ID: 8UXgr8a3
+2025-05-16 14:34:44,953 [WARNING] Error fetching paste 8UXgr8a3: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/8UXgr8a3 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:44,953 [INFO] Skipped 8UXgr8a3 (no content)
+2025-05-16 14:34:44,958 [INFO] Checking paste ID: Zw0em82f
+2025-05-16 14:34:46,176 [WARNING] Error fetching paste Zw0em82f: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/Zw0em82f (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:46,176 [INFO] Skipped Zw0em82f (no content)
+2025-05-16 14:34:46,191 [INFO] Checking paste ID: 5ETHspZM
+2025-05-16 14:34:47,098 [INFO] Fetched https://pastebin.com/raw/5ETHspZM | Status: 403
+2025-05-16 14:34:47,098 [INFO] Skipped 5ETHspZM (no content)
+2025-05-16 14:34:47,098 [INFO] Checking paste ID: JQfpQmpV
+2025-05-16 14:34:48,357 [WARNING] Error fetching paste JQfpQmpV: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/JQfpQmpV (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:48,357 [INFO] Skipped JQfpQmpV (no content)
+2025-05-16 14:34:48,357 [INFO] Checking paste ID: PxUx6V4g
+2025-05-16 14:34:50,387 [WARNING] Error fetching paste PxUx6V4g: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/PxUx6V4g (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:50,387 [INFO] Skipped PxUx6V4g (no content)
+2025-05-16 14:34:50,387 [INFO] Checking paste ID: f2ZhSVC2
+2025-05-16 14:34:51,920 [WARNING] Error fetching paste f2ZhSVC2: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/f2ZhSVC2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-05-16 14:34:51,920 [INFO] Skipped f2ZhSVC2 (no content)
+2025-05-16 14:34:51,920 [INFO] Checking paste ID: z67DKxPf
+2025-05-16 14:34:53,475 [WARNING] Error fetching paste z67DKxPf: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/z67DKxPf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:53,475 [INFO] Skipped z67DKxPf (no content)
+2025-05-16 14:34:53,475 [INFO] Checking paste ID: fLZtdwtA
+2025-05-16 14:34:54,379 [INFO] Fetched https://pastebin.com/raw/fLZtdwtA | Status: 403
+2025-05-16 14:34:54,379 [INFO] Skipped fLZtdwtA (no content)
+2025-05-16 14:34:54,379 [INFO] Checking paste ID: FuVmXrWF
+2025-05-16 14:34:55,223 [WARNING] Error fetching paste FuVmXrWF: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/FuVmXrWF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:55,223 [INFO] Skipped FuVmXrWF (no content)
+2025-05-16 14:34:55,223 [INFO] Checking paste ID: jdi6hxhF
+2025-05-16 14:34:56,124 [WARNING] Error fetching paste jdi6hxhF: HTTPSConnectionPool(host='pastebin.com', port=443): Max retries exceeded with url: /raw/jdi6hxhF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-05-16 14:34:56,124 [INFO] Skipped jdi6hxhF (no content)
+2025-05-16 14:34:56,124 [INFO] Crawling complete.
