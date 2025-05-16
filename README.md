@@ -27,9 +27,16 @@ A Python-based crawler that scrapes Pastebin's latest public pastes and identifi
 Install dependencies:
    pip install requests beautifulsoup4
 📁 Usage
-python pastebin_crawler.py
-Logs: pastebin_crawler.log
+
+   python pastebin_crawler.py
+   
+   Logs: pastebin_crawler.log
 
 Output: keyword_matches.jsonl
+
+### 🧪 PoC Screenshot
+
+![PoC Screenshot](https://github.com/Meghali54/pastebin-keyword-crawler/blob/main/Screenshot%20(124).png)
+
 
 
